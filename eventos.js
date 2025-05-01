@@ -12,7 +12,7 @@ document.getElementById("preto_branco").addEventListener
             document.body.classList.toggle('alto-contraste');
         }
         );
-        
+
     // A+ E A-
     window.onload = function () {
 
@@ -45,3 +45,4 @@ document.getElementById("preto_branco").addEventListener
         );
     }
 
+    
