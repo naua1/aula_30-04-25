@@ -1,0 +1,33 @@
+nav{
+    height: 100px;
+
+}
+img{
+  height: 60px;
+}
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  font-size: 64px;
+}
+
+.imagem{
+  height: 500px;
+}
+.preto_branco{
+  filter: grayscale(100%);
+}
+
+.alto-contraste{
+  background-color: black;
+  color: white;
+
+}
+
+.alto-contraste a{
+  color: yellow;
+}
